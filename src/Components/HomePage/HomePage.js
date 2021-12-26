@@ -1,7 +1,7 @@
 import { faList, faNewspaper } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useEffect, useState } from 'react';
-import { Button, Offcanvas, Pagination } from 'react-bootstrap';
+import { Button, Offcanvas } from 'react-bootstrap';
 import logo from '../../logo.svg'
 import './HomePage.css';
 import portfolio from '../images/portfolio.jpg';
