@@ -1,0 +1,176 @@
+.nav-align1{
+    background-color: rgba(175, 222, 236, 0.973);
+    margin-top: 60px;
+    height: 500px;
+    width: 331px;
+    border-radius: 15px;
+}
+.nav-align2{
+    margin-top: 25px;
+    margin-left: 40px;
+    
+}
+  .sidenavs {
+    width: 150px;
+    padding: 8px 0;
+  }
+  .sidenav2 p{
+      font-size: x-small;
+  }
+  .sidenavs img{
+      width: 50px;
+      border-radius: 50%;
+  }
+  .sidenave-align{
+      text-align: center;
+      box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+      background-color: white;
+      border-radius: 10px;
+      width: 250px;
+      overflow: hidden;
+      
+  }
+   /* Toggle Align */
+   .toggle-align{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-top: 55px;
+    background-color: white;
+    border-radius: 10px;
+      width: 250px;
+      margin-left: 25px;
+      text-align: center;
+      padding: 10px;
+   }
+   .toggle-align span{
+       font-size: xx-large;
+       padding: 10px;
+       box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+   }
+   .toggle-align span :active{
+       background-color: chartreuse;
+       position: relative;
+
+   }
+ /* FeedBack Align */
+ .feedback-button2{
+     margin-left: 20px;
+ }
+  .feedback-button2{
+    text-align: center;
+      box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+      background-color: white;
+      border-radius: 10px;
+      width: 250px;
+      padding: 10px;
+  }
+  .sidebar-align{
+      width: 1100px !important;
+      border-radius: 15px;
+  }
+  .sidebar-align2{
+    background-color: rgba(175, 222, 236, 0.973);
+    height: 100%;
+    border-radius: 15px;
+}
+
+.details-align p{
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-weight: 400;
+
+}
+.details-align input{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 5px;
+
+}
+.address-align input{
+    width: 310px;
+    height: 70px;
+}
+.country-align input{
+    width: 250px;
+
+}
+ /* Card Align */
+.card-align{
+    width: 270px !important;
+    height: 300px;
+    background-color:white;
+    margin: 15px;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.card-align img{
+    width: 250px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.card-align h6{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+.card-align h5{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 1; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+.card-align2{
+    width: 250px !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 10px;
+    background-color: white;
+    margin: 15px;
+
+}
+.card-align2 img{
+    width: 220px;
+
+}
+.card-align2 h6{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+.card-align2 h5{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 1; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+.card-align3{
+    width: 900px;
+    margin: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+.card-align3 h6{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 1; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+.card-align3 h5{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 1; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
